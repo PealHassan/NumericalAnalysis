@@ -14,3 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# .02 .01 0 0 .02
+# 1 2 1 0 1
+# 0 1 2 1 4
+# 0 0 100 200 800
